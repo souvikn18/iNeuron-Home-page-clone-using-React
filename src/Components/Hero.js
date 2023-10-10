@@ -7,7 +7,7 @@ function HeroSection() {
     return(
         <>
             <div className='flex justify-center'>
-                <h1 className='text-[48px] font-semibold text-[#233c7b] mt-[50px]'>"Pure Hardwork, No Shortcuts!"</h1>
+                <h1 className='text-[48px] font-semibold mt-[50px]'>"Pure Hardwork, No Shortcuts!"</h1>
             </div>
             <hr className='w-[140px] mx-auto border-2 bg-orange-400 border-orange-400 mt-2'></hr>
             <div className='flex justify-center gap-[100px] my-[70px]'>

@@ -9,7 +9,7 @@ function HallofFame() {
         <>
             <section>
                 <div className='flex justify-center'> 
-                    <h2 className='text-[48px] text-[#233c7b] font-semibold mt-[60px]'>Hall of Fame</h2>
+                    <h2 className='text-[48px] font-semibold mt-[60px]'>Hall of Fame</h2>
                 </div>
                 <div className='flex gap-[40px] justify-center my-[80px]'>
                     <HallofFameCard pp={pp1} name={"Rahul Kumar"} role={"Startup Genome, Data Scientist"} message={"Thank you very much, Krish Sir and Sudhanshu Sir, it was the month of Jan 21 when I started my journey with Machine Learning Master's Batch, and I was in the middle of the course when I cracked the Interview for Data Analyst Role (Now promoted to Data Scientist). With the accurate Learning path, proper assignments and 24*7 Skype Support, it was possible. Last year I also started using the One Neuron's Courses, with ample amount of Knowledge shared by different experts on various tech stacks. iNeuron was great and now with PW, they are making Data Science Learning easier, cheaper, better. Hats Off !! to the team."}/>

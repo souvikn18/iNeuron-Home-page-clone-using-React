@@ -8,7 +8,7 @@ function Hackathon({htc1,htc2,htc3,htc4,htc5,htc6,htc7}) {
     return(
         <>
             <div className='flex justify-center'>
-                <h2 className='text-[48px] text-[#233c7b] font-semibold mt-[60px]'>Hackathon's We Conducted</h2>
+                <h2 className='text-[48px]  font-semibold mt-[60px]'>Hackathon's We Conducted</h2>
             </div>
             <div className='flex justify-center my-[80px]'>
             <Carousel className='h-[798px] w-[1280px]'>

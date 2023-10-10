@@ -3,7 +3,7 @@ function OurPartneredInstitute({Heading, InstitutionIcon1,InstitutionIcon2,Insti
     return(
         <>
             <div className='flex justify-center my-[25px] pb-[60px]'>
-                <h2 className='text-[48px] text-[#233c7b] font-semibold mt-[60px]'>{Heading}</h2>
+                <h2 className='text-[48px] font-semibold mt-[60px]'>{Heading}</h2>
             </div>
             <div className='flex justify-center gap-[50px] mx-auto my-[20px] pb-[200px]'>
                 <img className='h-[160px] w-[160px]' src={InstitutionIcon1} alt='...'/>

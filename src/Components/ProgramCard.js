@@ -8,7 +8,7 @@ function ProgramCard({Image, CardName, Instructor, Price, Status}) {
                         <img className='h-[189px] w-[336px] mx-auto mt-2' src={Image} alt='...'/>
                     </div>
                     <div>
-                        <h2 className='mx-auto w-[336px] h-[56px] text-[20px] text-[#233c7b] font-bold'>{CardName}</h2>
+                        <h2 className='mx-auto w-[336px] h-[56px] text-[20px] font-bold'>{CardName}</h2>
                     </div>
                     <div>
                         <p className='mx-auto w-[336px] h-[30px] overflow-hidden text-[16px] text-[#02050b] font-semibold'>{Instructor}</p>
