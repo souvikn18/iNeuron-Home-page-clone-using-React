@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# *** FOR EDUCATION PURPOSE ONLY ***
+
+This is iNeuron.ai Home page clone using ReactJS reusable components.
+
+Technologies used: React JS, Tailwind CSS, Flowbite components
+
+### Here is the live link: https://ineuron-homepage-souvik-nath.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
